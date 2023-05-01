@@ -2,7 +2,7 @@ from telethon import TelegramClient, sync
 from config import *
 import os
 import random
-import opencv
+import cv2
 
 # client = TelegramClient('first_session', api_id, api_hash)
 # client.start()
